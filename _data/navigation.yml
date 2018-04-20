@@ -1,0 +1,14 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Must Read"
+    url: /must_read/
+  - title: "Study Sheets"
+    url: /study_sheets/
+    description: "About me"
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Old Blog"
+    url: https://troylindsayblog.wordpress.com/
