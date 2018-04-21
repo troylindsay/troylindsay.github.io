@@ -261,7 +261,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-archives (~> 2.1)
-  jekyll-data
+  jekyll-data (~> 1.0)
   jekyll-feed (~> 0.6)
   minimal-mistakes-jekyll
   tzinfo-data
