@@ -31,7 +31,7 @@ repository: "troylindsay/troylindsay.github.io"
 
 # teaser: /assets/images/500x300.png
 
-breadcrumbs: "true"
+breadcrumbs: true
 
 analytics:
   provider: "google"
@@ -48,24 +48,24 @@ defaults:
       path: ""
       type: "pages"
     values:
-      author_profile: "true"
-      comments: "true"
+      author_profile: true
+      comments: true
       layout: "single"
-      share: "true"
-      toc: "true"
+      share: true
+      toc: true
   # _posts
   - scope:
       path: ""
       type: "posts"
     values:
-      author_profile: "true"
-      comments: "true"
+      author_profile: true
+      comments: true
       layout: "single"
-      read_time: "true"
-      related: "true"
-      share: "true"
+      read_time: true
+      related: true
+      share: true
 
-search: "true"
+search: true
 
 # Build settings
 markdown: "kramdown"
