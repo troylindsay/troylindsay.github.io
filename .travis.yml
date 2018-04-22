@@ -1,4 +1,5 @@
+# https://pages.github.com/versions/
 language: ruby
 rvm:
-  - 2.1
+  - 2.4
 script: "bundle exec jekyll build"
