@@ -70,7 +70,8 @@ search: true
 # Build settings
 markdown: "kramdown"
 
-theme: "minimal-mistakes-jekyll"
+#theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum" "sunrise"
 
 timezone: "America/Chicago"
@@ -80,6 +81,7 @@ plugins:
   - "jekyll-data"
   - "jekyll-feed"
   - "jekyll-paginate"
+  - "jekyll-remote-theme"
   - "jekyll-seo-tag"
   - "jekyll-sitemap"
 
