@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: "troylindsay.github.io"
+title: "troylindsay.io"
 name: "Troy Lindsay"
 # email:
 description: "about virtualization, automation, and cloud computing"
 
-url: "https://troylindsay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.troylindsay.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 github: "[metadata]"
@@ -104,10 +104,10 @@ paginate_path: /page:num/
 
 author:
   avatar: "/assets/images/bio-photo.jpg"
-  # name: "Troy Lindsay"
+  name: "Troy Lindsay"
   # bio: "Cloud Architect"
-  home: "https://troylindsay.github.io" # null (default), "absolute or relative url to link to author home"
-  # uri: "https://troylindsay.github.io"
+  home: "https://www.troylindsay.io"
+  # uri: "https://www.troylindsay.io"
   twitter: "troylindsay42"
   linkedin: "tlindsay42"
   github: "tlindsay42"
