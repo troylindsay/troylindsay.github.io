@@ -111,9 +111,10 @@ paginate_path: /page:num/
 author:
   avatar: "/assets/images/bio-photo.jpg"
   name: "Troy Lindsay"
-  # bio: "Cloud Architect"
-  home: "https://www.troylindsay.io"
-  # uri: "https://www.troylindsay.io"
+  bio: "Husband, father of three beautiful children, and passionate architect of cloud solutions."
+  location: "Richardson, TX, USA"
+  home: "https://www.troylindsay.io/about/"
+  uri: "https://www.troylindsay.io"
   twitter: "troylindsay42"
   linkedin: "troylindsay"
   github: "tlindsay42"
