@@ -53,6 +53,7 @@ defaults:
       layout: "single"
       share: true
       toc: true
+      toc_label: "On this page"
   # _posts
   - scope:
       path: ""
@@ -64,6 +65,8 @@ defaults:
       read_time: true
       related: true
       share: true
+      toc: true
+      toc_label: "On this page"
 
 search: true
 
