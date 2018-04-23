@@ -2,18 +2,16 @@
 layout: single
 title: Study Sheets
 permalink: /study_sheets/
-date: 2017-10-02 08:35:39 -05:00
-categories:
-  - Education
-tags:
-  - certification
-# excerpt: Study sheets that break down certification blueprints
+date: "2018-04-23"
+excerpt: "A free study sheet to help you prepare for the VMware VCAP6-DCV Deploy certification exam by breaking down the blueprints."
 ---
-[forked](https://help.github.com/articles/fork-a-repo/) from [Chris Wahl's VCAP5 Study Sheets](http://wahlnetwork.com/publications/study-sheets/)
+<small>[forked](https://help.github.com/articles/fork-a-repo/) from [Chris Wahl's VCAP5 Study Sheets](http://wahlnetwork.com/publications/study-sheets/)</small>
+
+{% include figure image_path="/assets/images/VCAP6-DCV_Deployment_3V0-623_Study_Sheet.png" %}
 
 If you’re studying for an advanced level certification, it can be daunting to try and keep up with all of the content in the official blueprints to determine where your stronger and weaker points of knowledge lay. The following study sheets are a freely available resource designed to help you track progress as you work towards your certification goal.
 
-## VMware
+## VMware Certification Study Sheets
 
 * VMware Certified Advanced Professional (VCAP)
   * Data Center Virtualization (VCAP-DCV)
@@ -31,4 +29,6 @@ Each study sheet is broken down by section and objective. Next to each objective
 
 Chris Wahl has created a brief video that demonstrates the Study Sheet in a bit more detail. As always, please make sure to let him know if the video was helpful with a **Like** or **Share**, and support his video efforts with your [Subscription](https://www.youtube.com/subscription_center?add_user=wahlnetwork)!
 
-[![Chris Wahl's VCAP5-DCA Study Sheet](https://img.youtube.com/vi/rGCCrGBDMyU/0.jpg)](https://youtu.be/rGCCrGBDMyU)
+### Getting Started Video
+
+{% include video id="rGCCrGBDMyU" provider="youtube" %}
