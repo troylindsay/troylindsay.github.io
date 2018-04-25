@@ -5,7 +5,7 @@ permalink: "/study_sheets/"
 date: "2018-04-25"
 header:
   overlay_image: "/assets/images/pixabay-narrative-794978_1280.jpg"
-  caption: "[**Pixabay**](https://pixabay.com)"
+  caption: "[**pixabay**](https://pixabay.com)"
 excerpt: "Free study sheets to help you prepare for certification exams by breaking down the blueprints"
 ---
 <small>[forked](https://help.github.com/articles/fork-a-repo/) from [Chris Wahl's VCAP5 Study Sheets](http://wahlnetwork.com/publications/study-sheets/)</small>
