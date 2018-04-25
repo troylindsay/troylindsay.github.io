@@ -1,15 +1,15 @@
 ---
-layout: single
-title: Must Read
+title: "Must Read"
+layout: "single"
 permalink: /must_read/
-date: 2017-10-13 09:24:13 -05:00
-categories:
-  - Education
-tags:
-  - books
-excerpt: Study sheets that break down certification blueprints
+date: "2018-04-25"
+classes: "wide"
+header:
+  overlay_image: "/assets/images/pixabay-book-1659717_1280.jpg"
+  caption: "[**pixabay**](https://pixabay.com)"
+excerpt: "A list of books that I have read, and highly recommend"
+toc: false
 ---
-
 * __The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win__, by Gene Kim, Kevin Behr, and George Spafford
 * __The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations__, by Gene Kim, Jez Humble, Patrick Debois, & John Willis
 * __VMware vSphere 6.5 Host Resources Deep Dive__, by Frank Denneman (VCDX-029) & Niels Hagoort (VCDX-212)
