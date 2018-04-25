@@ -10,5 +10,3 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Old Blog"
-    url: https://troylindsayblog.wordpress.com/
