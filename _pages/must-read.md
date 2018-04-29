@@ -1,13 +1,13 @@
 ---
 title: "Must Read"
+excerpt: "Books that I have read and highly recommend"
 layout: "single"
 permalink: /must_read/
-date: "2018-04-25"
+date: "2018-04-29"
 classes: "wide"
 header:
   overlay_image: "/assets/images/pixabay-book-1659717_1280.jpg"
   caption: "[**pixabay**](https://pixabay.com)"
-excerpt: "A list of books that I have read, and highly recommend"
 toc: false
 ---
 * __The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win__, by Gene Kim, Kevin Behr, and George Spafford
