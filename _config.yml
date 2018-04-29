@@ -10,53 +10,53 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# theme: 'minimal-mistakes-jekyll'
+remote_theme: 'mmistakes/minimal-mistakes'
+minimal_mistakes_skin: 'sunrise' # 'air', 'aqua', 'contrast', 'dark', 'dirt', 'neon', 'mint', 'plum', 'sunrise'
 
 # Site Settings
-locale: "en-US"
-title: "Troy Lindsay"
-title_separator: "-"
-name: "Troy Lindsay"
-description: "about automation, virtualization, and cloud computing"
-url: "https://www.troylindsay.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
-github: "[metadata]"
-repository: "troylindsay/troylindsay.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+locale: 'en-US'
+title: 'Troy Lindsay'
+title_separator: '-'
+name: 'Troy Lindsay'
+description: 'about automation, virtualization, and cloud computing'
+url: 'https://www.troylindsay.io' # the base hostname & protocol for your site e.g. 'https://mmistakes.github.io'
+baseurl: '' # the subpath of your site, e.g. '/blog'
+github: '[metadata]'
+repository: 'troylindsay/troylindsay.github.io' # GitHub username/repo-name e.g. 'mmistakes/minimal-mistakes'
 # head_scripts:
 #   - https://code.jquery.com/jquery-3.2.1.min.js
 #   - /assets/js/your-custom-head-script.js
-# teaser: "" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# teaser: '' # path of fallback teaser image, e.g. '/assets/images/500x300.png'
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
-  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider: 'disqus' # false (default), 'disqus', 'discourse', 'facebook', 'google-plus', 'staticman', 'staticman_v2' 'custom'
   disqus:
-    shortname: "troylindsay-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: 'troylindsay-github-io' # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 #   discourse:
 #     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
 #   facebook:
 #     # https://developers.facebook.com/docs/plugins/comments
 #     appid:
 #     num_posts: # 5 (default)
-#     colorscheme: # "light" (default), "dark"
+#     colorscheme: # 'light' (default), 'dark'
 # staticman:
 #   allowedFields: # ['name', 'email', 'url', 'message']
-#   branch: # "master"
-#   commitMessage: # "New comment."
+#   branch: # 'master'
+#   commitMessage: # 'New comment.'
 #   filename: # comment-{@timestamp}
-#   format: # "yml"
+#   format: # 'yml'
 #   moderation: # true
-#   path: # "/_data/comments/{options.slug}" (default)
+#   path: # '/_data/comments/{options.slug}' (default)
 #   requiredFields: # ['name', 'email', 'message']
 #   transforms:
-#     email: # "md5"
+#     email: # 'md5'
 #   generatedFields:
 #     date:
-#       type: # "date"
+#       type: # 'date'
 #       options:
-#         format: # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+#         format: # 'iso8601' (default), 'timestamp-seconds', 'timestamp-milliseconds'
 # reCaptcha:
 #   siteKey:
 #   secret:
@@ -64,7 +64,7 @@ comments:
 #   path: # blank (default) uses feed.xml
 search: true # true, false (default)
 search_full_content: true # true, false (default)
-search_provider: "lunr" # lunr (default), algolia
+search_provider: 'lunr' # lunr (default), algolia
 # algolia:
 #   application_id: # YOUR_APPLICATION_ID
 #   index_name: # YOUR_INDEX_NAME
@@ -73,55 +73,55 @@ search_provider: "lunr" # lunr (default), algolia
 
 # SEO Related
 # google_site_verification:
-bing_site_verification: "D61B6DA4780B196D884D0F4094F52CE3"
-naver_site_verification: "df634f43d5abd10bd587bf3814db1f024bfa5211"
-yandex_site_verification: "ebcfad05a879c1e8"
+bing_site_verification: 'D61B6DA4780B196D884D0F4094F52CE3'
+naver_site_verification: 'df634f43d5abd10bd587bf3814db1f024bfa5211'
+yandex_site_verification: 'ebcfad05a879c1e8'
 
 # Social Sharing
 twitter:
-  username: "troylindsay42"
+  username: 'troylindsay42'
 # facebook:
 #   username:
 #   app_id:
 #   publisher:
-og_image: "/assets/images/og-image.jpg" # Open Graph/Twitter default site image
+og_image: '/assets/images/og-image.jpg' # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   # type: # Person or Organization (defaults to Person)
   # name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/troylindsay42"
-    - "https://www.linkedin.com/in/troylindsay"
-    - "https://github.com/tlindsay42"
-    - "https://gitlab.com/tlindsay42"
+    - 'https://twitter.com/troylindsay42'
+    - 'https://www.linkedin.com/in/troylindsay'
+    - 'https://github.com/tlindsay42'
+    - 'https://gitlab.com/tlindsay42'
 
 # Analytics
 analytics:
-  provider: "google" # false (default), "google", "google-universal", "custom"
+  provider: 'google' # false (default), 'google', 'google-universal', 'custom'
   google:
-    tracking_id: "UA-117909744-1"
+    tracking_id: 'UA-117909744-1'
 
 
 # Site Author
 author:
-  name: "Troy Lindsay"
-  avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Husband, father of three beautiful children, and passionate architect of cloud solutions"
-  location: "Richardson, TX, USA"
+  name: 'Troy Lindsay'
+  avatar: '/assets/images/bio-photo.jpg' # path of avatar image, e.g. '/assets/images/bio-photo.jpg'
+  bio: 'Husband, father of three beautiful children, and passionate architect of cloud solutions'
+  location: 'Richardson, TX, USA'
   # email:
-  uri: "https://www.troylindsay.io"
-  home: "https://www.troylindsay.io/about/" # null (default), "absolute or relative url to link to author home"
-  github: "tlindsay42"
-  gitlab: "tlindsay42"
-  linkedin: "troylindsay" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  # stackoverflow: "9325399/troy-lindsay" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  twitter: "troylindsay42"
+  # uri: 'https://www.troylindsay.io'
+  home: 'https://www.troylindsay.io/about/' # null (default), 'absolute or relative url to link to author home'
+  github: 'tlindsay42'
+  gitlab: 'tlindsay42'
+  linkedin: 'troylindsay' # 'john-doe-12345678' (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  # stackoverflow: '9325399/troy-lindsay' # '123456/username' (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  twitter: 'troylindsay42'
 
 
 # Reading Files
 include:
-  - "_pages"
+  - '_pages'
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -162,15 +162,15 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding: 'utf-8'
+markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
 
 
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: '\n\n'
 incremental: false
 
 
@@ -196,32 +196,32 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "America/Chicago" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: 'America/Chicago' # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
 plugins:
-  - "jekyll-archives"
-  - "jekyll-data"
-  - "jekyll-feed"
-  - "jekyll-paginate"
-  - "jekyll-remote-theme"
-  - "jekyll-seo-tag"
-  - "jekyll-sitemap"
-  - "jekyll-gist"
-  - "jemoji"
+  - 'jekyll-archives'
+  - 'jekyll-data'
+  - 'jekyll-feed'
+  - 'jekyll-paginate'
+  - 'jekyll-remote-theme'
+  - 'jekyll-seo-tag'
+  - 'jekyll-sitemap'
+  - 'jekyll-gist'
+  - 'jemoji'
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - "jekyll-archives"
-  - "jekyll-data"
-  - "jekyll-feed"
-  - "jekyll-paginate"
-  - "jekyll-remote-theme"
-  - "jekyll-seo-tag"
-  - "jekyll-sitemap"
-  - "jekyll-gist"
-  - "jemoji"
+  - 'jekyll-archives'
+  - 'jekyll-data'
+  - 'jekyll-feed'
+  - 'jekyll-paginate'
+  - 'jekyll-remote-theme'
+  - 'jekyll-seo-tag'
+  - 'jekyll-sitemap'
+  - 'jekyll-gist'
+  - 'jemoji'
 
 
 # Archives
@@ -264,25 +264,24 @@ compress_html:
 defaults:
   # _pages
   - scope:
-      path: ""
-      type: "pages"
+      path: ''
+      type: 'pages'
     values:
-      layout: "single"
+      layout: 'single'
       author_profile: true
-      comments: true
       share: true
       toc: true
-      toc_label: "On this page"
+      toc_label: 'On this page'
   # _posts
   - scope:
-      path: ""
-      type: "posts"
+      path: ''
+      type: 'posts'
     values:
-      layout: "single"
+      layout: 'single'
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
       toc: true
-      toc_label: "On this page"
+      toc_label: 'On this page'
