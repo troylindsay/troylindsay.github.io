@@ -5,7 +5,7 @@ layout: 'single'
 classes: 'wide'
 header:
   overlay_image: '/assets/images/pixabay-sunrise-1756274_1280.jpg'
-  caption: '[**pixabay**](https://pixabay.com)'
+  caption: '[**pixabay**](https://pixabay.com/en/sunrise-space-outer-globe-world-1756274/)'
   cta_label: 'GitHub Repository'
   cta_url: 'https://github.com/vmug-labs/vmug-labs'
 toc: false
