@@ -6,7 +6,7 @@ layout: 'single'
 date: '2018-04-28'
 header:
   overlay_image: '/assets/images/pixabay-narrative-794978_1280.jpg'
-  caption: '[**pixabay**](https://pixabay.com)'
+  caption: '[**pixabay**](https://pixabay.com/en/narrative-history-dream-tell-794978/)'
 ---
 <small>[forked][fork] from [Chris Wahl's Study Sheets][Wahl Network Study Sheets]</small>
 
