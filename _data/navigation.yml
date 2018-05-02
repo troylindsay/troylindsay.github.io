@@ -1,12 +1,16 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Must Read"
-    url: /must_read/
-  - title: "Study Sheets"
-    url: /study_sheets/
-    description: "About me"
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: 'About'
+    url: '/about/'
+    description: 'About me'
+  - title: 'Must Read'
+    url: '/must_read/'
+    description: 'Books that I have read and highly recommend'
+  - title: 'Study Sheets'
+    url: '/study_sheets/'
+    description: 'Free study sheets'
+  - title: 'Categories'
+    url: '/categories/'
+    description: 'All posts grouped by category'
+  - title: 'Tags'
+    url: '/tags/'
+    description: 'All posts grouped by tag'
