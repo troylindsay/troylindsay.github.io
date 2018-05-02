@@ -5,6 +5,7 @@ layout: 'single'
 published: true
 header:
   overlay_image: '/assets/images/pixabay-old-books-436498_1280.jpg'
+  teaser: '/assets/images/pixabay-old-books-436498_1280.jpg'
   caption: '[**pixabay**](https://pixabay.com/en/old-books-book-old-library-436498/)'
   cta_label: 'Read now'
   cta_url: 'https://docs.google.com/document/d/1mT9KUCofckekTIAQC6_PCqkO9J4yGcbU_NO__SzTUSI/edit?usp=sharing'
