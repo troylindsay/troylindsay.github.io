@@ -72,7 +72,7 @@ search_provider: 'lunr' # lunr (default), algolia
 #   powered_by: # true (default), false
 
 # SEO Related
-# google_site_verification:
+google_site_verification: 'bf9A7_W70OmRufZSZQHITYnDnCVYkD_RSknjxnzNFtA'
 bing_site_verification: 'D61B6DA4780B196D884D0F4094F52CE3'
 naver_site_verification: 'df634f43d5abd10bd587bf3814db1f024bfa5211'
 yandex_site_verification: 'ebcfad05a879c1e8'
