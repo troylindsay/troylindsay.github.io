@@ -286,3 +286,18 @@ defaults:
       related: true
       toc: true
       toc_label: 'On this page'
+  # Google site verification
+  - scope:
+      path: '/googled33e154135703398.html'
+    values:
+      sitemap: false
+  # Naver site verification
+  - scope:
+      path: '/naver02a00314dd42a40265a39f7e92915a99.html'
+    values:
+      sitemap: false
+  # Yandex site verification
+  - scope:
+      path: '/yandex_0cf0629bc36fb7ec.html'
+    values:
+      sitemap: false
