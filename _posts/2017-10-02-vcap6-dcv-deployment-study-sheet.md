@@ -1,12 +1,14 @@
 ---
+layout: 'single'
 title: 'VCAP6-DCV Deployment Study Sheet'
 excerpt: 'A free study sheet to help you prepare for the VMware certification exam by breaking down the blueprints.'
-layout: 'single'
+date: '2017-10-02 22:31:41 -0500'
 published: true
 header:
-  overlay_image: '/assets/images/pixabay-old-books-436498_1280.jpg'
-  teaser: '/assets/images/pixabay-old-books-436498_1280.jpg'
-  caption: '[**pixabay**](https://pixabay.com/en/old-books-book-old-library-436498/)'
+  overlay_image: '/assets/images/pixabay-checklist-1622517.png'
+  overlay_filter: 0.5
+  teaser: '/assets/images/pixabay-checklist-1622517_640.png'
+  caption: '[**pixabay**](https://pixabay.com/en/checklist-clipboard-questionnaire-1622517/)'
   cta_label: 'Read now'
   cta_url: 'https://docs.google.com/document/d/1mT9KUCofckekTIAQC6_PCqkO9J4yGcbU_NO__SzTUSI/edit?usp=sharing'
 classes: 'wide'

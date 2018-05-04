@@ -1,12 +1,13 @@
 ---
+layout: 'single'
 title: 'Study Sheets'
 excerpt: 'Free study sheets to help you prepare for certification exams by breaking down the blueprints'
 permalink: '/study_sheets/'
-layout: 'single'
-date: '2018-04-28'
+date: '2018-05-04'
 header:
-  overlay_image: '/assets/images/pixabay-narrative-794978_1280.jpg'
-  caption: '[**pixabay**](https://pixabay.com/en/narrative-history-dream-tell-794978/)'
+  overlay_image: '/assets/images/pixabay-checklist-1622517.png'
+  overlay_filter: 0.5
+  caption: '[**pixabay**](https://pixabay.com/en/checklist-clipboard-questionnaire-1622517/)'
 ---
 <small>[forked][fork] from [Chris Wahl's Study Sheets][Wahl Network Study Sheets]</small>
 

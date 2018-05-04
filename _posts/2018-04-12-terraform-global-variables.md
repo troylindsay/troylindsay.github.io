@@ -1,14 +1,16 @@
 ---
-title: 'Terraform Global Variables'
-excerpt: 'A simple way to implement global variables in Terraform{::nomarkdown}<br><br><strong>VMUG-Labs</strong> (example project)<br><br><iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 layout: 'single'
-classes: 'wide'
+title: 'Terraform Global Variables'
+excerpt: 'A simple way to implement global variables in Terraform. {::nomarkdown}<br><br>Example available in the <strong>VMUG-Labs</strong> project.s<br><br><iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+date: '2018-04-12 09:36:40 -0500'
 header:
-  overlay_image: '/assets/images/pixabay-sunrise-1756274_1280.jpg'
-  teaser: '/assets/images/pixabay-sunrise-1756274_1280.jpg'
+  overlay_image: '/assets/images/pixabay-sunrise-1756274.jpg'
+  overlay_filter: 0.5
+  teaser: '/assets/images/pixabay-sunrise-1756274_640.jpg'
   caption: '[**pixabay**](https://pixabay.com/en/sunrise-space-outer-globe-world-1756274/)'
   cta_label: 'GitHub Repository'
   cta_url: 'https://github.com/vmug-labs/vmug-labs'
+classes: 'wide'
 toc: false
 categories:
 - Automation

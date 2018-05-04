@@ -1,13 +1,14 @@
 ---
+layout: 'single'
 title: 'Must Read'
 excerpt: 'Books that I have read and highly recommend'
-layout: 'single'
 permalink: '/must_read/'
-date: '2018-05-02'
-classes: 'wide'
+date: '2018-05-04'
 header:
-  overlay_image: '/assets/images/pixabay-book-1659717_1280.jpg'
-  caption: '[**pixabay**](https://pixabay.com/en/book-read-old-literature-pages-1659717/)'
+  overlay_image: '/assets/images/pixabay-books-1655783.jpg'
+  overlay_filter: 0.5
+  caption: '[**pixabay**](https://pixabay.com/en/books-door-entrance-italy-colors-1655783/)'
+classes: 'wide'
 toc: false
 ---
 * **<a target="_blank" href="https://www.amazon.com/gp/product/1942788290/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942788290&linkCode=as2&tag=troylindsayio-20&linkId=73fdbaafe04ec2aac7e75738b200ee81">The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</a>**<img src="//ir-na.amazon-adsystem.com/e/ir?t=troylindsayio-20&l=am2&o=1&a=1942788290" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, by Gene Kim, Kevin Behr, and George Spafford

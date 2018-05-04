@@ -1,12 +1,13 @@
 ---
-title: 'About me'
-# excerpt: ''
 layout: 'single'
+title: 'About me'
+excerpt: 'just your friendly neighborhood problem solver'
 permalink: '/about/'
-date: '2018-05-01'
+date: '2018-05-04'
 header:
-  overlay_image: '/assets/images/pixabay-away-3294679_1280.jpg'
-  caption: '[**pixabay**](https://pixabay.com/en/away-light-forest-haze-sun-rays-3294679/)'
+  overlay_image: '/assets/images/pixabay-virtual-reality-1802469.jpg'
+  overlay_filter: 0.5
+  caption: '[**pixabay**](https://pixabay.com/en/narrative-history-dream-tell-794978/)'
 ---
 ## Author
 
