@@ -7,7 +7,7 @@ date: '2018-05-04'
 header:
   overlay_image: '/assets/images/pixabay-virtual-reality-1802469.jpg'
   overlay_filter: 0.5
-  caption: '[**pixabay**](https://pixabay.com/en/narrative-history-dream-tell-794978/)'
+  caption: '[**pixabay**](https://pixabay.com/en/virtual-reality-big-data-internet-1802469/)'
 ---
 ## Author
 
@@ -26,7 +26,7 @@ This is my personal blog about automation, virtualization, & cloud computing.  I
 
 ## Accolades
 
-* [VMware vExpert 2018][vExpert 2018]
+[![VMware vExpert 2018][vExpert 2018 image]][vExpert 2018]
 
 ## Disclaimer
 
