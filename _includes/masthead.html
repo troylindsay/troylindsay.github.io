@@ -4,17 +4,13 @@
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ '/' | relative_url }}">Home</a>
         <ul class="visible-links">
-          {% for link in site.data.navigation.main %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign
-          domain = site.url | append: site.baseurl %} {% endif %}
+          {% for link in site.data.navigation.main %}
           <li class="masthead__menu-item">
-            <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}" {% endif %}>{{ link.title }}</a>
-          </li>
-          {% endfor %}
-          <li class="masthead__menu-item">
-            <a href="https://travis-ci.org/troylindsay/troylindsay.github.io">
-              <img src="https://travis-ci.org/troylindsay/troylindsay.github.io.svg?branch=master">
+            <a href="{{ link.url | relative_url }}" {% if link.description %} title="{{ link.description }}" {% endif %} >
+              {{ link.title }}
             </a>
           </li>
+          {% endfor %}
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
