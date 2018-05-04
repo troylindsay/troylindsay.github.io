@@ -43,6 +43,8 @@ I recently came across [Chris Wahl's VCAP5 study sheets][Wahl Network study shee
 
 [![VCAP6-DCV Deployment][VCAP6-DCV Deployment study sheet screenshot]][VCAP6-DCV Deployment study sheet]{: .align-center}
 
+* [VMware Certified Advanced Professional 6.0 - Data Center Virtualization: Deployment (blueprint 3V0-623) study sheet][VCAP6-DCV Deployment study sheet]
+
 Enjoy!
 
 [Wahl Network study sheets]: http://wahlnetwork.com/publications/study-sheets/
