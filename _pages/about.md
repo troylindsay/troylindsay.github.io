@@ -11,7 +11,7 @@ header:
 ---
 ## Author
 
-Hi!  My name is Troy Lindsay, and I am currently a Cloud Architect at [Armor][Armor], an active cyber-security company.  I enjoy spending most of my days designing products, infrastructure, and tooling with my fantastic team for our [Armor Complete][Armor Complete] (secure public cloud) and [Armor Anywhere][Armor Anywhere] (security as a service) product lines.
+Hi!  My name is Troy Lindsay, and I am currently a Principal Cloud Architect at [Armor][Armor], an active cyber-security company.  I enjoy spending most of my days designing products, infrastructure, and tooling with my fantastic team for our [Armor Complete][Armor Complete] (secure public cloud) and [Armor Anywhere][Armor Anywhere] (security as a service) product lines.
 
 ## Blog
 
