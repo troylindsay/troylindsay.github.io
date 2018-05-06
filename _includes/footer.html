@@ -34,15 +34,24 @@
       <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}">
         <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a>
     </li>
+    <span class="align-right">
+      <li>
+        <a href="https://github.com/{{ site.repository }}">
+          <i class="fas fa-fw fa-code" aria-hidden="true"></i><i class="fab fa-fw fa-github" aria-hidden="true"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://travis-ci.org/{{ site.repository }}">
+          <img src="https://travis-ci.org/{{ site.repository }}.svg?branch=master" />
+        </a>
+      </li>
+    </span>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by |
-  default: "Powered by" }}
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
   <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
   <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>, &amp;
   <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
-  <a href="https://travis-ci.org/troylindsay/troylindsay.github.io">
-    <img src="https://travis-ci.org/troylindsay/troylindsay.github.io.svg?branch=master" style="float:right">
-  </a>
 </div>
