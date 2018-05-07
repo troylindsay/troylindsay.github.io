@@ -1,0 +1,17 @@
+.page__must_read-table {
+  h2 {
+    border-bottom: none;
+    display: inline-block;
+    font-family: $global-font-family;
+    font-weight: normal;
+    font-size: $type-size-5;
+    line-height: 0px;
+    margin: 0rem;
+    text-decoration: underline;
+  }
+
+  td {
+    border-bottom: none;
+    vertical-align: top;
+  }
+}
