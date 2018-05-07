@@ -3,7 +3,7 @@ layout: 'single'
 title: 'Study Sheets'
 excerpt: 'Free study sheets to help you prepare for certification exams by breaking down the blueprints'
 permalink: '/study_sheets/'
-date: '2018-05-04'
+date: '2018-05-07'
 header:
   overlay_image: '/assets/images/pixabay-checklist-1622517.png'
   overlay_filter: 0.5
@@ -18,8 +18,7 @@ If you’re studying for an advanced level certification, it can be daunting to 
 ### VCAP6-DCV: Deployment
 
 [![VCAP6-DCV Deployment][VCAP6-DCV Deployment study sheet screenshot]][VCAP6-DCV Deployment study sheet]{: .align-center}
-
-* [VMware Certified Advanced Professional 6.0 - Data Center Virtualization: Deployment (blueprint 3V0-623) study sheet][VCAP6-DCV Deployment study sheet]
+[<small>*VMware Certified Advanced Professional 6.0 - Data Center Virtualization: Deployment (blueprint 3V0-623) study sheet*</small>][VCAP6-DCV Deployment study sheet]{: .text-center}
 
 ## Instructions
 
