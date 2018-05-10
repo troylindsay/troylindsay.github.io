@@ -1,9 +1,9 @@
 ---
 layout: 'single'
 title: 'About me'
-excerpt: 'just your friendly neighborhood problem solver'
+excerpt: 'Your friendly neighborhood problem solver'
 permalink: '/about/'
-date: '2018-05-04'
+date: '2018-05-10'
 header:
   overlay_image: '/assets/images/pixabay-virtual-reality-1802469.jpg'
   overlay_filter: 0.5
@@ -30,7 +30,7 @@ This is my personal blog about automation, virtualization, & cloud computing.  I
 
 ## Disclaimer
 
-The views and opinions expressed on this blog are my own and do not reflect the views and opinions of my employer.
+The views and opinions expressed on this blog are my own and do not reflect the views nor the opinions of my employer.
 
 [Armor]: https://www.armor.com/
 [Armor Complete]: https://www.armor.com/armor-complete-secure-hosting/
