@@ -13,32 +13,32 @@ header:
 classes: 'wide'
 toc: false
 categories:
-- Automation
-- Cloud Computing
-- Virtualization
+- 'Automation'
+- 'Cloud Computing'
+- 'Virtualization'
 tags:
-- HashiCorp
-- Open source
-- Terraform
-- VMUG
+- 'HashiCorp'
+- 'Open source'
+- 'Terraform'
+- 'VMUG'
 meta:
-  _wpcom_is_markdown: '1'
+  _wpcom_is_markdown: 1
   _publicize_done_external: 'a:2:{s:7:"twitter";a:1:{i:18402702;s:59:"https://twitter.com/troylindsay42/status/984440174124953600";}s:8:"facebook";a:1:{i:18883722;s:38:"https://facebook.com/10155592459651314";}}'
-  _rest_api_published: '1'
-  _rest_api_client_id: '-1'
-  _publicize_job_id: '16726215685'
-  timeline_notification: '1523543801'
-  _publicize_done_18611616: '1'
-  _wpas_done_18402702: '1'
-  publicize_twitter_user: troylindsay42
-  publicize_google_plus_url: https://plus.google.com/+TroyLindsay/posts/UPv7PQhPsrW
-  _publicize_done_18611618: '1'
-  _wpas_done_18402704: '1'
-  publicize_linkedin_url: https://www.linkedin.com/updates?discuss=&scope=19360941&stype=M&topic=6390205878632542208&type=U&a=-pZo
-  _publicize_done_18611619: '1'
-  _wpas_done_18402705: '1'
-  _publicize_done_19035169: '1'
-  _wpas_done_18883722: '1'
+  _rest_api_published: 1
+  _rest_api_client_id: -1
+  _publicize_job_id: 16726215685
+  timeline_notification: 1523543801
+  _publicize_done_18611616: 1
+  _wpas_done_18402702: 1
+  publicize_twitter_user: 'troylindsay42'
+  publicize_google_plus_url: 'https://plus.google.com/+TroyLindsay/posts/UPv7PQhPsrW'
+  _publicize_done_18611618: 1
+  _wpas_done_18402704: 1
+  publicize_linkedin_url: 'https://www.linkedin.com/updates?discuss=&scope=19360941&stype=M&topic=6390205878632542208&type=U&a=-pZo'
+  _publicize_done_18611619: 1
+  _wpas_done_18402705: 1
+  _publicize_done_19035169: 1
+  _wpas_done_18883722: 1
 ---
 Anyone who has developed a highly modular Terraform project has wished at some point that there was a simple way to implement global variables.  This feature will probably not be developed though, because as Paul Hinze of HashiCorp [stated][Terraform issue 5480]:
 
