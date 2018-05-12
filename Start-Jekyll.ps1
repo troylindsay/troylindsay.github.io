@@ -26,18 +26,30 @@ param (
     # Skips the initial site build which occurs before the server is started
     [Parameter( Position = 0 )]
     [Boolean] $SkipInitialBuild = $true,
+
     # Enable incremental rebuild
     [Parameter( Position = 1 )]
     [Boolean] $Incremental = $true,
+
     # Render posts that were marked as unpublished
     [Parameter( Position = 2 )]
     [Boolean] $Unpublished = $true,
+
     # Render posts in the _drafts folder
     [Parameter( Position = 3 )]
     [Boolean] $Drafts = $true,
+
     # Publishes posts with a future date
     [Parameter( Position = 4 )]
-    [Boolean] $Future = $true
+    [Boolean] $Future = $true,
+
+    # Print verbose output
+    [Parameter( Position = 5 )]
+    [Boolean] $Verbose = $false,
+
+    # Show the full backtrace when an error occurs
+    [Parameter( Position = 6 )]
+    [Boolean] $Trace = $true
 )
 
 begin {
