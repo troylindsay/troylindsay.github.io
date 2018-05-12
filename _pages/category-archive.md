@@ -1,4 +1,5 @@
 ---
+type: 'page'
 layout: 'categories'
 title: 'Categories'
 excerpt: 'All posts grouped by category'

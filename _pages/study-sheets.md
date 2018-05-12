@@ -1,9 +1,10 @@
 ---
+type: 'page'
 layout: 'single'
 title: 'Study Sheets'
 excerpt: 'Free study sheets to help you prepare for certification exams by breaking down the blueprints'
 permalink: '/study_sheets/'
-date: '2018-05-07'
+date: '2018-05-12'
 header:
   overlay_image: '/assets/images/pixabay-checklist-1622517.png'
   overlay_filter: 0.5

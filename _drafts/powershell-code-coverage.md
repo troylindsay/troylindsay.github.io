@@ -1,4 +1,5 @@
 ---
+type: 'post'
 layout: 'single'
 title: 'PowerShell Code Coverage'
 excerpt: 'How to track code coverage scores in your PowerShell project with Pester and Coveralls'

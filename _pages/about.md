@@ -1,9 +1,10 @@
 ---
+type: 'page'
 layout: 'single'
 title: 'About me'
 excerpt: 'Your friendly neighborhood problem solver'
 permalink: '/about/'
-date: '2018-05-10'
+date: '2018-05-12'
 header:
   overlay_image: '/assets/images/pixabay-virtual-reality-1802469.jpg'
   overlay_filter: 0.5

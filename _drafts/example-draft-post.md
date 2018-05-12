@@ -1,4 +1,5 @@
 ---
+type: 'post'
 layout: 'single'
 title: 'Example Draft Post'
 excerpt: 'Example Excerpt'

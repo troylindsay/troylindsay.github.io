@@ -1,4 +1,5 @@
 ---
+type: 'page'
 layout: 'single'
 title: 'Whiteboard Challenge'
 excerpt:

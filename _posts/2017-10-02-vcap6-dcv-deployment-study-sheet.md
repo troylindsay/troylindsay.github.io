@@ -1,4 +1,5 @@
 ---
+type: 'post'
 layout: 'single'
 title: 'VCAP6-DCV Deployment Study Sheet'
 excerpt: 'A free study sheet to help you prepare for the VMware certification exam by breaking down the blueprints.'

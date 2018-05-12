@@ -1,4 +1,5 @@
 ---
+type: 'page'
 layout: 'tags'
 title: 'Tags'
 excerpt: 'All posts grouped by tag'

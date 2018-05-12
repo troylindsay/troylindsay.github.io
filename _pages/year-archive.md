@@ -1,4 +1,5 @@
 ---
+type: 'page'
 layout: 'posts'
 title: 'Posts'
 excerpt: 'All posts grouped by year'

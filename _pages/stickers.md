@@ -1,10 +1,11 @@
 ---
+type: 'page'
 layout: 'single'
 title: 'Stickers'
 excerpt:
 permalink: '/stickers/'
 published: false
-date: '2018-05-10'
+date: '2018-05-12'
 header:
   overlay_color: '#333'
 meta:

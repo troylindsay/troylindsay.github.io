@@ -1,4 +1,5 @@
 ---
+type: 'post'
 layout: 'single'
 title: 'VMware vExpert 2018!'
 date: '2018-03-10 21:37:05 -0600'
