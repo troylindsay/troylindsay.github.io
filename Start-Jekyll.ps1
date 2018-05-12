@@ -43,12 +43,8 @@ param (
     [Parameter( Position = 4 )]
     [Boolean] $Future = $true,
 
-    # Print verbose output
-    [Parameter( Position = 5 )]
-    [Boolean] $Verbose = $false,
-
     # Show the full backtrace when an error occurs
-    [Parameter( Position = 6 )]
+    [Parameter( Position = 5 )]
     [Boolean] $Trace = $true
 )
 
@@ -87,6 +83,14 @@ process {
 
     if ( $Future -eq $true ) {
         $parameters += '--future'
+    }
+
+    if ( $Trace -eq $true ) {
+        $parameters += '--trace'
+    }
+
+    if ( $VerbosePreference -eq $true ) {
+        $parameters += '--verbose'
     }
 
     Write-Verbose -Message "bundle exec jekyll serve $parameters"
