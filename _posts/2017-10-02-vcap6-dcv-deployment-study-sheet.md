@@ -41,9 +41,9 @@ meta:
 ---
 I recently came across [Chris Wahl's VCAP5 study sheets][Wahl Network study sheets] while looking for learning material for the VMware Certified Advanced Professional 6.0 - Data Center Virtualization Deployment (VCAP6-DCV Deployment) exam, and I really liked how it presented the blueprint in an easily consumable, goal-oriented format, so I decided to generate one for this exam.  In the same spirit, I am sharing this (and any others that I create later on) freely from my [my study sheets][my study sheets] page.
 
-[![VCAP6-DCV Deployment][VCAP6-DCV Deployment study sheet screenshot]][VCAP6-DCV Deployment study sheet]{: .align-center}
-
-* [VMware Certified Advanced Professional 6.0 - Data Center Virtualization: Deployment (blueprint 3V0-623) study sheet][VCAP6-DCV Deployment study sheet]
+[![VCAP6-DCV Deployment][VCAP6-DCV Deployment study sheet screenshot]{: .align-center}][VCAP6-DCV Deployment study sheet]
+<small>*[VMware Certified Advanced Professional 6.0 - Data Center Virtualization: Deployment (blueprint 3V0-623) study sheet][VCAP6-DCV Deployment study sheet]*</small>
+{: .text-center}
 
 Enjoy!
 
