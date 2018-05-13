@@ -35,10 +35,9 @@ meta:
   _publicize_done_18611619: 1
   _wpas_done_18402705: 1
 ---
-[![vExpert][vExpert 2018]][vExpert-2112]{: .align-left}I made the cut!  I am very proud to say that I have been inducted into a terrific community of VMware evangelists and advocates that share their knowledge and love of technology with the greater community.  Thank you to the many, many people who inspired and supported me in this journey.
+[![vExpert][badge]][2112]{: .align-left}I made the cut!  I am very proud to say that I have been inducted into a terrific community of VMware evangelists and advocates that share their knowledge and love of technology with the greater community.  Thank you to the many, many people who inspired and supported me in this journey.
 
 Today, I am celebrating by starting to plan a Terraform + Terragrunt framework for VMware Cloud on AWS for an upcoming open source VMUG project.  Stay tuned!
 
-[vExpert 2018]: {{ '/assets/images/vExpert-2018_100.png' | relative_url }}
-[vExpert-2112]: https://vexpert.vmware.com/directory/2112
-[vExpert acceptance letter]: {{ '/assets/images/vExpert-2018-acceptance-letter.png' | relative_url }}
+[badge]: {{ '/assets/images/vExpert-2018_100.png' | relative_url }}
+[2112]: https://vexpert.vmware.com/directory/2112
