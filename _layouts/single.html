@@ -60,17 +60,10 @@ layout: 'default'
         </aside>
         {% endif %}
         {{ content }}
-        <p>
-          <small>
-            <strong>
-              <i class="fab fa-fw fa-github" aria-hidden="true"></i>
-            </strong>
-            <em>
-              Discovered a mistake on this page? Why not suggest an
-              <a target="_blank" href="https://github.com/{{ site.repository }}/blob/master/{{ page.path }}">edit on GitHub</a>!
-            </em>
-          </small>
-        </p>
+        <a target="_blank" href="https://github.com/{{ site.repository }}/blob/master/{{ page.path }}" class="btn btn--primary btn--small">
+          <i class="fas fa-fw fa-pencil-alt" aria-hidden="true"></i>
+          Improve this page
+        </a>
         {% if page.link %}
           <div>
             <a href="{{ page.link }}" class="btn btn--primary">
