@@ -6,4 +6,13 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Variables */
+@import "variables";
+
 @import "must-read"; // override class for the must-read page
+
+/* Components */
+@import "btn-custom";
+
+/* Utility classes */
+@import "utilities";
