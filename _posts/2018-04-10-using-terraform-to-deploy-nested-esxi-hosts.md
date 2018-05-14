@@ -59,6 +59,8 @@ meta:
   _publicize_done_19035169: 1
   _wpas_done_18883722: 1
 ---
+## Overview
+
 As I mentioned in the [previous post][post], I recently started a new open source <abbr title="VMware Users Group">VMUG</abbr> project with some new friends with a goal of automatically provisioning the necessary virtual infrastructure for VMware-oriented hackathons on the VMware Cloud on AWS (VMC) platform using HashiCorp Terraform and Gruntwork Terragrunt, in a simple and cost effective manner.  The project is called VMUG Labs and the source code can be found in the [GitHub repository][repo].
 
 As indicated by the title of this post, you would only need to make a few tweaks to make this work in your home lab, work lab, or any vSphere environment where you want to deploy nested ESXi hosts, because VMC can use the standard Terraform VMware vSphere provider for provisioning VMs in your <abbr title="Software-Defined Datacenter">SDDC</abbr>.  I'll cover how to use Terraform to deploy nested ESXi hosts in your lab in more detail in the next post.
