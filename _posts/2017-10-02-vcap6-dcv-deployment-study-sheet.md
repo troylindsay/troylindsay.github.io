@@ -49,6 +49,6 @@ I recently came across [Chris Wahl's VCAP5 study sheets][wahl_network] while loo
 Enjoy!
 
 [wahl_network]: http://wahlnetwork.com/publications/study-sheets/
-[study_sheets]: {{ '/study_sheets/' | relative_url }}
+[study_sheets]: {% link _pages/study-sheets.md %}
 [screenshot]: {{ '/assets/images/VCAP6-DCV_Deployment_3V0-623_Study_Sheet.png' | relative_url }} "{{ site.data.study-sheets.vcap6-dcv }}"
 [vcap6-dcv]: https://docs.google.com/document/d/1mT9KUCofckekTIAQC6_PCqkO9J4yGcbU_NO__SzTUSI/edit?usp=sharing "{{ site.data.study-sheets.vcap6-dcv }}"
