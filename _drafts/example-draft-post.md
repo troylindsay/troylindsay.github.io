@@ -4,6 +4,8 @@ layout: 'single'
 title: 'Example Draft Post'
 excerpt: 'Example Excerpt'
 published: false
+date: '2018-05-02 09:20:04 -0500'
+last_modified_at: '2018-05-18 09:01:27 -0500'
 header:
   overlay_image: '/assets/images/pixabay-paper-3033204.jpg'
   overlay_filter: 0.5

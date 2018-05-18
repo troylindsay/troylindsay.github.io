@@ -4,6 +4,7 @@ layout: 'single'
 title: 'VMware Cloud on AWS: Network Security'
 excerpt: 'Product review focused on the current network security features'
 date: 2018-04-09 07:00:59 -05:00
+last_modified_at: '2018-05-18 08:54:00 -0500'
 published: true
 toc_icon: 'fire'
 header:
@@ -15,13 +16,13 @@ categories:
 - 'Automation'
 - 'Cloud Computing'
 - 'Networking'
+- 'Product review'
 - 'Security'
 - 'Virtualization'
 tags:
 - 'AWS'
 - 'Firewall'
 - 'NSX'
-- 'Product review'
 - 'SDDC'
 - 'vExpert'
 - 'VMC'

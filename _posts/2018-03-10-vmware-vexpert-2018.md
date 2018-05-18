@@ -3,6 +3,7 @@ type: 'post'
 layout: 'single'
 title: 'VMware vExpert 2018!'
 date: '2018-03-10 21:37:05 -0600'
+last_modified_at: '2018-05-18 08:54:00 -0500'
 published: true
 header:
   overlay_image: '/assets/images/vExpert-2018-acceptance-letter.png'
