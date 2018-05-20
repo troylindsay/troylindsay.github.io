@@ -4,8 +4,8 @@ layout: 'categories'
 title: 'Categories'
 excerpt: 'All posts grouped by category'
 permalink: '/categories/'
-date: '2016-07-14 15:49:56 -0500'
-last_modified_at: '2018-05-18 08:58:49 -0500'
+published: true
+last_modified_at: '2018-05-19'
 header:
   overlay_image: '/assets/images/pixabay-shelf-3314732.jpg'
   overlay_filter: 0.5

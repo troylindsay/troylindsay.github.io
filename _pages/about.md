@@ -4,8 +4,8 @@ layout: 'single'
 title: 'About me'
 excerpt: 'Your friendly neighborhood problem solver'
 permalink: '/about/'
-date: '2016-07-14 15:49:56 -0500'
-last_modified_at: '2018-05-18 09:00:09 -0500'
+published: true
+last_modified_at: '2018-05-19'
 header:
   overlay_image: '/assets/images/pixabay-virtual-reality-1802469.jpg'
   overlay_filter: 0.5

@@ -3,9 +3,8 @@ type: 'post'
 layout: 'single'
 title: 'Terraform Global Variables'
 excerpt: 'A simple way to implement global variables in Terraform. {::nomarkdown}<br><br>Example available in the <strong>VMUG-Labs</strong> project.<br><br><iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-date: '2018-04-12 09:36:40 -0500'
-last_modified_at: '2018-05-18 08:54:00 -0500'
 published: true
+last_modified_at: '2018-05-19'
 header:
   overlay_image: '/assets/images/pixabay-sunrise-1756274.jpg'
   overlay_filter: 0.5

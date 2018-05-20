@@ -3,9 +3,8 @@ type: 'post'
 layout: 'single'
 title: 'PowerShell Core on Travis CI (part 2 of 3)'
 excerpt: 'How to build, test, and deploy your PowerShell projects on Linux and macOS for free with Travis CI! {::nomarkdown}<br><br>Example available in the <strong>Armor PowerShell</strong> project.<br><br><iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=tlindsay42&repo=armorpowershell&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=tlindsay42&repo=armorpowershell&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-date: '2017-11-25 23:00:33 -06:00'
-last_modified_at: '2018-05-18 08:50:00 -0500'
 published: true
+last_modified_at: '2018-05-19'
 toc_icon: 'terminal'
 classes: 'wide'
 header:

@@ -3,9 +3,8 @@ type: 'post'
 layout: 'single'
 title: 'VMware Cloud on AWS: Network Security'
 excerpt: 'Product review focused on the current network security features'
-date: 2018-04-09 07:00:59 -05:00
-last_modified_at: '2018-05-18 08:54:00 -0500'
 published: true
+last_modified_at: '2018-05-19'
 toc_icon: 'fire'
 header:
   overlay_image: '/assets/images/pixabay-network-3396348.jpg'

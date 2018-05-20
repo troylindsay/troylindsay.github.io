@@ -4,8 +4,7 @@ layout: 'single'
 title: 'Free Stickers!'
 excerpt: 'Sticker Mule referral link for a $10 in-store credit'
 published: true
-date: '2018-01-13 12:19:00 -0600'
-last_modified_at: '2018-05-18 08:54:00 -0500'
+last_modified_at: '2018-05-19'
 header:
   overlay_image: '/assets/images/unsplash-nilotpal-kalita-275402.jpg'
   overlay_filter: 0.5
