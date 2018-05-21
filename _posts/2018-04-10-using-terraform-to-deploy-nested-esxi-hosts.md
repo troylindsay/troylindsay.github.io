@@ -5,9 +5,6 @@ title: 'Using Terraform to deploy Nested ESXi hosts'
 excerpt: 'in your VMware Cloud on AWS SDDC (or home lab!) with the Virtually Ghetto vSphere 6.5 U1 ESXi virtual appliance. {::nomarkdown}<br><br>Example available in the <strong>VMUG-Labs</strong> project.<br><br><iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vmug-labs&repo=vmug-labs&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 published: true
 last_modified_at: '2018-05-19'
-classes: 'wide'
-toc: true
-toc_icon: 'user-astronaut'
 header:
   overlay_image: '/assets/images/pixabay-solaris-3365405.jpg'
   overlay_filter: 0.5
@@ -15,6 +12,9 @@ header:
   caption: '[**pixabay**](https://pixabay.com/en/solaris-world-earth-watts-sea-3365405/)'
   cta_label: 'GitHub Repository'
   cta_url: 'https://github.com/vmug-labs/vmug-labs'
+classes: 'wide'
+toc: true
+toc_icon: 'user-astronaut'
 categories:
 - 'Automation'
 - 'Cloud Computing'

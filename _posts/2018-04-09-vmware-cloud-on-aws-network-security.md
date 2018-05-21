@@ -5,12 +5,12 @@ title: 'VMware Cloud on AWS: Network Security'
 excerpt: 'Product review focused on the current network security features'
 published: true
 last_modified_at: '2018-05-19'
-toc_icon: 'fire'
 header:
   overlay_image: '/assets/images/pixabay-network-3396348.jpg'
   overlay_filter: 0.5
   teaser: '/assets/images/pixabay-network-3396348_640.jpg'
   caption: '[**pixabay**](https://pixabay.com/en/network-data-connection-technology-3396348/)'
+toc_icon: 'fire'
 categories:
 - 'Automation'
 - 'Cloud Computing'
