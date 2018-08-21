@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tlindsay42
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://troylindsay.io
+  * I am tlindsay42 (https://keybase.io/tlindsay42) on keybase.
+  * I have a public key ASDi-CCxjAOx4b4US3oerxhA0zS2cClDZPTf-dflPFmx1Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e2f820b18c03b1e1be144b7a1eaf1840d334b670294364f4dff9d7e53c59b1d40a",
+      "host": "keybase.io",
+      "kid": "0120e2f820b18c03b1e1be144b7a1eaf1840d334b670294364f4dff9d7e53c59b1d40a",
+      "uid": "a2ce2481634aa052e01190eb8f8d5119",
+      "username": "tlindsay42"
+    },
+    "merkle_root": {
+      "ctime": 1534889922,
+      "hash": "eabe5727164226ec5174e16d0042f5f78a928a7dc3e9aa85551d760784b5a56100bf60e91a044591c93bed3f66c544b2d352d44fd1ef896e0cfa594a955dbc49",
+      "hash_meta": "3e066c14b38c3e301bd28122566cd7f2106773fcf99cd403b277cdfbf1f60cd6",
+      "seqno": 3495900
+    },
+    "service": {
+      "entropy": "1+ZrfdrxjKKCjm03UUtLFlP2",
+      "hostname": "troylindsay.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.1"
+  },
+  "ctime": 1534889938,
+  "expire_in": 504576000,
+  "prev": "0e17d920965ad1b4c83aaf75b210df19a7437b331cda51ae03d440f2f8da0919",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4vggsYwDseG+FEt6Hq8YQNM0tnApQ2T03/nX5TxZsdQKp3BheWxvYWTESpcCCsQgDhfZIJZa0bTIOq91shDfGadDezMc2lGuA9RA8vjaCRnEIOjVcu0uC+wasT1vmO18htJrVJyIesmLogNSnUj23C3jAgHCo3NpZ8RAYqA+A6a23MmJtG9Tyw324e0qPCfmeCIa9OrC4jIQXjU2bpNTmHevx26Bg6l+aq6vZrnBTKzPJMp3LnHj0iA7C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKAMqdic/zJUXXX7D4rI4IIWJ9/7Zl7qHcxkSGgsAlCZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tlindsay42
+
+==================================================================
