@@ -210,6 +210,7 @@ plugins:
   - 'jekyll-archives'
   - 'jekyll-data'
   - 'jekyll-feed'
+  - 'jekyll-include-cache'
   - 'jekyll-paginate'
   - 'jekyll-remote-theme'
   - 'jekyll-seo-tag'
