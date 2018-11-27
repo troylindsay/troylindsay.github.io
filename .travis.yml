@@ -1,5 +1,5 @@
 # https://pages.github.com/versions/
 language: ruby
 rvm:
-  - 2.4
+  - 2.5
 script: bundle exec jekyll build --strict_front_matter --trace --verbose --show-data --safe
