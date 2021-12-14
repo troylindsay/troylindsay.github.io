@@ -2,10 +2,11 @@
 type: 'page'
 layout: 'single'
 title: 'Study Sheets'
+redirect_to: 'https://troylindsay.io/pages/study-sheets/'
 excerpt: 'Free study sheets to help you prepare for certification exams by breaking down the blueprints'
 permalink: '/study_sheets/'
 published: true
-last_modified_at: '2018-05-19'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/pixabay-checklist-1622517.png'
   overlay_filter: 0.5

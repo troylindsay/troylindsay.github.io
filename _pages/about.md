@@ -2,10 +2,11 @@
 type: 'page'
 layout: 'single'
 title: 'About me'
+redirect_to: 'https://troylindsay.io/about/'
 excerpt: 'Your friendly neighborhood problem solver'
 permalink: '/about/'
 published: true
-last_modified_at: '2018-05-19'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/pixabay-virtual-reality-1802469.jpg'
   overlay_filter: 0.5

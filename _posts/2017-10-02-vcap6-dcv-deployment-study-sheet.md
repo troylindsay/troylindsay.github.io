@@ -2,9 +2,10 @@
 type: 'post'
 layout: 'single'
 title: 'VCAP6-DCV Deployment Study Sheet'
+redirect_to: 'https://troylindsay.io/posts/2017-10-02-vcap6-dcv-deployment-study-sheet/'
 excerpt: 'A free study sheet to help you prepare for the VMware certification exam by breaking down the blueprints.'
 published: true
-last_modified_at: '2018-05-19'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/pixabay-checklist-1622517.png'
   overlay_filter: 0.5

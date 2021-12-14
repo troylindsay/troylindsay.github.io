@@ -2,9 +2,10 @@
 type: 'post'
 layout: 'single'
 title: 'Free Stickers!'
+redirect_to: 'https://troylindsay.io/posts/2018-01-13-free-stickers/'
 excerpt: 'Sticker Mule referral link for a $10 in-store credit'
 published: true
-last_modified_at: '2018-05-19'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/unsplash-nilotpal-kalita-275402.jpg'
   overlay_filter: 0.5

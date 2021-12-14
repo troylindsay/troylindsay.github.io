@@ -2,9 +2,10 @@
 type: 'post'
 layout: 'single'
 title: 'Free CI for your GitHub forks'
+redirect_to: 'https://troylindsay.io/posts/2017-11-30-free-ci-for-your-github-forks/'
 excerpt: 'How to build & test your feature branch for free on AppVeyor & Travis CI before submitting a pull request.'
 published: true
-last_modified_at: '2018-05-20'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/technology-3389917.jpg'
   overlay_filter: 0.5

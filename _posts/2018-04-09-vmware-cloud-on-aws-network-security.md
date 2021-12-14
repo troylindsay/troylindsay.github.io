@@ -2,9 +2,10 @@
 type: 'post'
 layout: 'single'
 title: 'VMware Cloud on AWS: Network Security'
+redirect_to: 'https://troylindsay.io/posts/2018-04-09-vmware-cloud-on-aws-network-security/'
 excerpt: 'Product review focused on the current network security features'
 published: true
-last_modified_at: '2018-05-19'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/pixabay-network-3396348.jpg'
   overlay_filter: 0.5

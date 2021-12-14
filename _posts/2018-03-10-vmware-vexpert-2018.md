@@ -2,8 +2,9 @@
 type: 'post'
 layout: 'single'
 title: 'VMware vExpert 2018!'
+redirect_to: 'https://troylindsay.io/posts/2018-03-10-vmware-vexpert-2018/'
 published: true
-last_modified_at: '2018-05-19'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/vExpert-2018-acceptance-letter.png'
   overlay_filter: 0.875

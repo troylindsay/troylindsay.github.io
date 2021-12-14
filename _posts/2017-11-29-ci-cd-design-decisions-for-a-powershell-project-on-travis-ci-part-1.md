@@ -2,9 +2,10 @@
 type: 'post'
 layout: single
 title: CI/CD design decisions for a PowerShell project on Travis CI (part 1 of 2)
+redirect_to: 'https://troylindsay.io/posts/2017-11-29-ci/cd-design-decisions-for-a-powershell-project-on-travis-ci/'
 excerpt: 'Why I designed the {::nomarkdown}<strong>Armor PowerShell</strong> project the way I did.<br><br><iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=tlindsay42&repo=armorpowershell&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=tlindsay42&repo=armorpowershell&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 published: true
-last_modified_at: '2018-05-20'
+last_modified_at: '2021-12-13'
 header:
   overlay_image: '/assets/images/powershell_github_travis-ci.png'
   overlay_filter: 0.5
